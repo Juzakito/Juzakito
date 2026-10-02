@@ -32,7 +32,11 @@
   <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
 </a>
 </div>
-
+<div align="center">
+<a href="https://github.com/Juzakito/juzakito.github.io">
+  <img width="49%" src="https://github-readme-stats-is8o.vercel.app/api/pin/?username=Juzakito&repo=juzakito.github.io&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" alt="juzakito.github.io" />
+</a>
+</div>
 <!-- Listo: instancia https://github-readme-stats-is8o.vercel.app/ — falta poner PAT_1 en Vercel y Redeploy
   Si quieres Instagram: añade el badge de la guía
 -->
