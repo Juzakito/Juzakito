@@ -37,3 +37,4 @@
   <img width="49%" src="https://github-readme-stats-is8o.vercel.app/api/pin/?username=Juzakito&repo=juzakito.github.io&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&hide_border=true" alt="juzakito.github.io" />
 </a>
 </div>
+<img alt="Juzaki Juzakito" width="100%" src="https://raw.githubusercontent.com/Juzakito/Juzakito/main/light.svg">
